@@ -2,7 +2,6 @@
 
 A lightweight, modular Python tool for importing, cleaning, analyzing, and visualizing marketing campaign data from **CSV and Excel files**.
 
-Built exactly as per your **PRD, HLD, and LLD**.
 
 ## Features
 - Supports both **CSV** and **Excel** files (FR1)
