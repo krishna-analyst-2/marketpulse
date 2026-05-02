@@ -10,19 +10,6 @@ A lightweight, modular Python tool for importing, cleaning, analyzing, and visua
 - Professional visualizations using seaborn & matplotlib (FR5)
 - Exports full report to Excel with multiple sheets (FR6)
 
-## Project Structure
----
-marketpulse/
-├── data/                          # Your raw datasets
-├── notebooks/                     # Your Google Colab cleaning steps
-├── output/                        # Generated reports & charts
-├── marketpulse/                   # Main package
-├── main.py
-├── requirements.txt
-└── README.md
-text
-
-
 ## Quick Start
 
 1. Install dependencies:
